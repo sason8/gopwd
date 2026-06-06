@@ -1,3 +1,6 @@
-﻿module github.com/username/gopwd
+module github.com/username/gopwd
 
 go 1.20
+
+require github.com/atotto/clipboard v0.1.4
+
