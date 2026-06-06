@@ -1,4 +1,4 @@
-﻿# đź” gopwd
+# 🔐 gopwd
 
 ![Go Version](https://img.shields.io/badge/Go-1.20+-00ADD8?style=for-the-badge&logo=go)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
